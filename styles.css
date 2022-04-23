@@ -122,7 +122,6 @@ button{
 }
 .header img{
     max-height: 50%;
-    /* width: 160px; */
     border-radius: 20px;
     box-shadow: 6px 4px 10px rgba(255, 255, 255, 0.25);
 }
@@ -141,33 +140,6 @@ button{
         display: block;
         margin-left: none;
     }
-}
-/* .text_contact textarea{
-    background-image: url('image/images.jpg');
-    border-radius: 7px;
-    width: 100px;
-    height: 250px;
-} */
-/* .dark-light{
-    color: blue;
-    position: absolute;
-    top: 85px;
-    right: 85px;
-} */
-/* .white{
-    color: #ffffff
-} */
-/* .black{
-    color: #000;
-} */
 .button_youtube{
     color: red;
 }
-/* .box-model > div{
-    border: 55px solid red;
-    float: left;
-    background-color: #000;
-    height:200px;
-    width: 25%;
-    box-sizing: border-box;
-} */
