@@ -133,12 +133,20 @@ button{
     font-size: 300%;
     font-family: 'Pacifico', 'Smokup', sans-serif;
 }
-@media (max-width: 350px) {
+@media (max-width: 300px) {
     .header,
     .header > div{
         text-align: center;
         display: block;
         margin-left: none;
+    }
+}
+@media (max-width: 400px) {
+    .header,
+    .header > div{
+        text-align: left;
+        display: flex;
+        margin-left: 20px;
     }
 }
 .button_youtube{
