@@ -133,7 +133,7 @@ button{
     font-size: 300%;
     font-family: 'Pacifico', 'Smokup', sans-serif;
 }
-@media (max-width: 400px) {
+@media (max-width: 350px) {
     .header,
     .header > div{
         text-align: center;
