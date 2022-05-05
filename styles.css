@@ -152,3 +152,10 @@ button{
 .button_youtube{
     color: red;
 }
+.ask{
+    color: #fff;
+}
+.ask div:first{
+    display: flex;
+    width: 200px;
+}
